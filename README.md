@@ -8,6 +8,9 @@ In the project directory, you can run:
 
 ### `npm start`
 
+Prerequisites: Download and run spring-boot project at: https://github.com/nicieong/employeeRestApi
+Then, the localhost React project can refer to the endpoints mapped in the source code.
+
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
